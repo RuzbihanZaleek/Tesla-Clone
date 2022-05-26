@@ -24,7 +24,7 @@ function Header() {
             </Menu>
             <RightMenu>
                 <a href = "#">SHOP</a>
-                
+                <a href = "#">TESLA ACCOUNT</a>
                 <CustomMenu onClick = {() => setBurgerStatus(true)}/>
             </RightMenu>
             <BurgerNav show = {burgerStatus}>
